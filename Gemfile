@@ -14,6 +14,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc # bundle exec rake doc:rails generates the A
 
 # Newly added for rpi-nteresting
 gem 'bootstrap-sass'
+gem 'mini_portile2'
 
 
 
